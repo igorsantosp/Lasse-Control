@@ -1,3 +1,5 @@
 <resources>
-    <string name="app_name">Lasse Control</string>
+    <string name="app_name">Projeto Kelis</string>
+    <string name="textview">TextView</string>
+    <string name="comando_dado">Comando dado</string>
 </resources>
